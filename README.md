@@ -1,6 +1,6 @@
 <img alt="icon" src=".diploi/icon.svg" width="32">
 
-# Node.js Component for Diploi
+# Node.js Component for Diploi 2
 
 [![launch with diploi badge](https://diploi.com/launch.svg)](https://diploi.com/component/node)
 [![component on diploi badge](https://diploi.com/component.svg)](https://diploi.com/component/node)
