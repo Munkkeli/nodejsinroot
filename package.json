@@ -4,7 +4,7 @@
   "main": "src/index.mjs",
   "scripts": {
     "dev": "node --watch src/index.mjs",
-    "build": "echo 'Add your build step here if one is required'",
+    "build": "echo 'This is the root build step'",
     "start": "node src/index.mjs"
   }
 }
