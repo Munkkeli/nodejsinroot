@@ -8,4 +8,7 @@ components:
     name: NodeJS
     identifier: node
     package: https://github.com/diploi/component-nodejs#v24-custom-folders
+  - name: NodeJS
+    identifier: node2
+    package: https://github.com/diploi/component-nodejs#v24-custom-folders
 addons: []
